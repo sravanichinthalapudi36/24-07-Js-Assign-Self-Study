@@ -1,0 +1,6 @@
+2 ques on javaScript which reference in one drive (jsvarloops)
+
+
+self-study
+Explore the built methods of array.find out some methods which are mutable and immuntable methods.
+Videos to be completed on SAAS and BootStrap
